@@ -16,3 +16,5 @@ This code can be set up using Google colab or by using jupyter notebook. Dataset
 ![Frequencies](https://user-images.githubusercontent.com/54496815/224586316-44b4a864-7c1e-4114-8ee9-c8d7762d127a.png)
 
 ![Obj-Histogram](https://user-images.githubusercontent.com/54496815/224586324-df3bf1f2-ed24-4255-8db0-49c8a696ca16.png)
+
+![Obj-Classification(Accuracy)](https://user-images.githubusercontent.com/54496815/224586432-c9effa8f-089b-46cb-9e75-ce87a00c4a43.png)
