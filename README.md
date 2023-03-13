@@ -1,7 +1,27 @@
 # CV_SP23
 
 ## Introduction:
+A popular method for classifying images is BoVW. The concept behind this method is comparable to NLP's "bag of words," except that in this technique, image features are used as words.
+Bag of Visual Words (BoVW) is one of the pre-deep learning techniques used in computer vision to create picture embeddings. BoVW can be used for object detection, picture classification, and content-based image retrieval.
+
+A summary of the five stages involved in comparing images with the bag of visual words approach is as follows:
+
+1. Extrapolate visual details
+
+2.  Make graphic language
+
+3.  Utilize these visual terms to create sparse frequency vectors
+
+4.    Using tf-idf, adjust frequency vectors for pertinent data
+
+5.    Utilize similarity or distance measures to compare vectors
+
+
+
+
 In this assignment/project two datasets are trained by using SIFT feature detector and using classifiers such as SVM and Random Forest.
+
+The following Image illustrates the methodology of BOVW: 
 
 ![The-procedure-of-scene-classification-based-on-the-bag-of-visual-words-BoVW-model](https://user-images.githubusercontent.com/54496815/224587502-2d721fff-7eae-458d-b4c9-8e519b9307fa.png)
 
