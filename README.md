@@ -3,6 +3,8 @@
 ## Introduction:
 In this assignment/project two datasets are trained by using SIFT feature detector and using classifiers such as SVM and Random Forest.
 
+![The-procedure-of-scene-classification-based-on-the-bag-of-visual-words-BoVW-model](https://user-images.githubusercontent.com/54496815/224587502-2d721fff-7eae-458d-b4c9-8e519b9307fa.png)
+
 ## Instructions:
 This code can be set up using Google colab or by using Jupyter Notebook. Dataset is uploaded on Google drive and can be mounted by using Google colab.
 
