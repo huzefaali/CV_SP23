@@ -29,11 +29,19 @@ The following Image illustrates the methodology of BOVW:
 This code can be set up using Google colab or by using Jupyter Notebook. Dataset is uploaded on Google drive and can be mounted by using Google colab.
 
 ## Instructions for Training and Testing:
+Train and Testing Data is uploaded on Google drive but can be made public if requested or can be accessed through a little searching.
 
+Dataset is uploaded on Google drive and can be mounted by using Google colab.
+
+The train and test for the flower dataset is 80/20.
 
 ## Visual Results:
 
+The following Result is of Object Dataset being made keypoints of using SIFT:
+
 ![Obj-SIFT](https://user-images.githubusercontent.com/54496815/224585989-931bd3fe-43cb-473a-84e4-8e7351042e4d.png)
+
+he following Result is of Flower Dataset being made keypoints of using SIFT:
 
 ![Flower-SIFT](https://user-images.githubusercontent.com/54496815/224586217-7878074e-4320-4b0d-a1de-b25f4696b4d6.png)
 
